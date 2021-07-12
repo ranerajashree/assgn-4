@@ -1,2 +1,2 @@
 this is master file1
-private file 
+this is private file 
